@@ -137,25 +137,15 @@ Currently gaining practical experience in **Quality Assurance and User Experienc
 
 ---
 
-## 📫 Connect With Me
+📫 Connect With Me
 
 <p align="left">
 
-<a href="https://github.com/ChamudithaJayasanka">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
+<a href="https://github.com/ChamudithaJayasanka"> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/> </a>
 
-<!-- Add your LinkedIn URL here -->
-
-<!--
-<a href="YOUR-LINKEDIN-URL">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
--->
+<a href="https://www.linkedin.com/in/chamuditha-jayasanka-726872411/"> <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/> </a>
 
 </p>
-
----
 
 ### 💡 "Learning, Building, Testing, and Improving — One Project at a Time."
 
