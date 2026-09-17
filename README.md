@@ -35,8 +35,8 @@ I enjoy building web applications, software projects, and user-friendly digital 
 ---
 <p align="center">
   <img 
-    src="https://user-images.githubusercontent.com/74038190/219923809-b86dc415-a0c2-4a38-bc88-ad6cf06395a8.gif"
-    width="250"
+    src="https://user-images.githubusercontent.com/74038190/214375888-0dc62524-fb43-43fd-9479-098b471d1b9c.gif"
+    width="750"
     alt="Coding Animation"
   />
 </p>
