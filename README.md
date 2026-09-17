@@ -35,8 +35,8 @@ I enjoy building web applications, software projects, and user-friendly digital 
 ---
 <p align="center">
   <img 
-    src="https://user-images.githubusercontent.com/74038190/214375888-0dc62524-fb43-43fd-9479-098b471d1b9c.gif"
-    width="750"
+    src="https://motionbgs.com/media/1033/the-drive-on-the-road-at-sunset.960x540.mp4"
+    width="250"
     alt="Coding Animation"
   />
 </p>
