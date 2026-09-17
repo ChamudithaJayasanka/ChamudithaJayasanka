@@ -91,39 +91,37 @@ Features include movie management, seat selection, ticket booking, reservations,
 
 A web application that uses a live weather API to display weather information.
 
-**Technologies:**
-HTML • CSS • JavaScript • PHP • MySQL • REST API • LocalStorage
+## 🛠️ Technologies & Tools
 
-### 🅿️ Parking Management System
+### 💻 Programming Languages
 
-A modern parking management system concept designed to manage parking spaces, reservations, users, and availability.
-
-### 🏨 Circuit Bungalow Web Application – QA Testing
-
-Currently gaining practical experience in **Quality Assurance and User Experience Testing**, including:
-
-* Functional Testing
-* UI/UX Testing
-* Test Case Design
-* Defect Identification
-* Regression Testing
-* OTP Authentication Testing
-* User Workflow Testing
-* QA Reporting
-
----
-
-## 📊 GitHub Statistics
-
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=ChamudithaJayasanka&show_icons=true&theme=dark" alt="GitHub Stats"/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ChamudithaJayasanka&theme=dark" alt="GitHub Streak"/>
-
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=java,python,js,cpp,cs,php" />
 </p>
 
----
+### 🌐 Web Development
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,js,nodejs" />
+</p>
+
+### 🗄️ Databases
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb,firebase" />
+</p>
+
+### ☁️ Cloud & Development Tools
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=aws,git,github,vscode" />
+</p>
+
+### 🧪 Testing & QA
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=java,playwright" />
+</p>
 
 ## 🏆 GitHub Trophy
 
