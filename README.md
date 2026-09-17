@@ -10,7 +10,6 @@
 <p align="center">
   <img src="IMAGE_OR_GIF_URL" width="600" alt="Developer Banner"/>
 </p>
-
 ---
 
 ## 👨‍💻 About Me
