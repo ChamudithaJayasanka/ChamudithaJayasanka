@@ -8,7 +8,7 @@
 ![AI Developer](https://img.shields.io/badge/Interest-AI%20%26%20Automation-purple?style=for-the-badge)
 
 <p align="center">
-  <img src="IMAGE_OR_GIF_URL" width="600" alt="Developer Banner"/>
+  <img src="IMAGE_OR_GIF_URL" width="600" alt="Banner"/>
 </p>
 ---
 
