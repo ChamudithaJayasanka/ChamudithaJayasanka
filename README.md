@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:2563eb,100:06b6d4&height=180&section=header&text=Chamuditha%20Jayasanka&fontSize=42&fontColor=ffffff&fontAlignY=38&animation=fadeIn" alt="Animated profile header" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=05051B,00F5FF,2563EB,9333EA,C084FC,FFFFFF&height=180&section=header&text=Chamuditha%20Jayasanka&fontSize=42&fontColor=ffffff&fontAlignY=38&animation=fadeIn" alt="Animated profile header" width="100%" />
 
 <br />
 
