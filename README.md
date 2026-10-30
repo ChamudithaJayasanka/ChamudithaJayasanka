@@ -2,6 +2,8 @@
 
 <h1>Chamuditha Jayasanka</h1>
 
+<img src="./neon_wave_animated.gif" alt="Animated neon wave" width="100%" />
+
 <a href="https://github.com/ChamudithaJayasanka">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=900&color=38BDF8&center=true&vCenter=true&width=760&lines=Computer+Science+Undergraduate;Software+%26+Web+Developer;QA+%26+Testing+Enthusiast;AI-Assisted+Developer;Always+learning%2C+building%2C+and+improving" alt="Typing animation" />
 </a>
