@@ -23,22 +23,32 @@
 ---
 
 <div align="center">
-  <img src="https://camo.githubusercontent.com/f63e22ea6f6b43ec238a4cd59f987675b38bf101effcd153812b26d6b6829174/68747470733a2f2f7265732e636c6f7564696e6172792e636f6d2f7375706572666f6c696f2f696d6167652f75706c6f61642f76313632303638393937392f36383734373437303733336132663266363932653730363936653639366436373265363336663664326636663732363936373639366536313663373332663633333632663333333332663633333232663633333633333333363333323330363536343635333833323636333036353330363336353634333736343335333733303634363236353333363133313636333332653637363936365f796a756832732e676966" width="950" height="500" alt="Super Mario animation" />
+  <img src="https://camo.githubusercontent.com/f63e22ea6f6b43ec238a4cd59f987675b38bf101effcd153812b26d6b6829174/68747470733a2f2f7265732e636c6f7564696e6172792e636f6d2f7375706572666f6c696f2f696d6167652f75706c6f61642f76313632303638393937392f36383734373437303733336132663266363932653730363936653639366436373265363336663664326636663732363936373639366536313663373332663633333632663333333332663633333232663633333633333333363333323330363536343635333833323636333036353330363336353634333736343335333733303634363236353333363133313636333332653637363936365f796a756832732e676966" width="950" height="450" alt="Super Mario animation" />
 
 
 
 ## 👨‍💻 About Me
 
-I’m a **BSc (Hons) Computer Science (Software Engineering)** undergraduate at the **University of Wolverhampton through CINEC Campus, Malabe**.
+<div align="center">
+  <p>
+    I’m a <strong>BSc (Hons) Computer Science (Software Engineering)</strong> undergraduate at the
+    <strong>University of Wolverhampton through CINEC Campus, Malabe</strong>.
+  </p>
 
-I enjoy building web applications, software projects, and user-friendly digital solutions. I’m also interested in **software testing, QA, cloud technologies, databases, and AI-assisted development**.
+  <p>
+    I enjoy building web applications, software projects, and user-friendly digital solutions.
+    I’m also interested in <strong>software testing, QA, cloud technologies, databases, and AI-assisted development</strong>.
+  </p>
 
-- 🎓 Currently studying **Computer Science (Software Engineering)**
-- 💻 Interested in **software and web development**
-- 🌐 Experience with **frontend and backend development**
-- 🧪 Interested in **software testing, QA, and automation**
-- 🤖 Exploring **AI-assisted development and prompt engineering**
-- ☁️ Learning and working with **cloud technologies**
+  <ul align="left">
+    <li>🎓 Currently studying <strong>Computer Science (Software Engineering)</strong></li>
+    <li>💻 Interested in <strong>software and web development</strong></li>
+    <li>🌐 Experience with <strong>frontend and backend development</strong></li>
+    <li>🧪 Interested in <strong>software testing, QA, and automation</strong></li>
+    <li>🤖 Exploring <strong>AI-assisted development and prompt engineering</strong></li>
+    <li>☁️ Learning and working with <strong>cloud technologies</strong></li>
+  </ul>
+</div>
 
 
 
