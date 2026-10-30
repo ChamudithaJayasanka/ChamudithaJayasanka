@@ -39,6 +39,12 @@ I enjoy building web applications, software projects, and user-friendly digital 
   <img src="https://user-images.githubusercontent.com/74038190/212750147-854a394f-fee9-4080-9770-78a4b7ece53f.gif" width="850" alt="Coding animation" />
 </div>
 
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/assets/mario.gif" width="260" alt="Super Mario animation" />
+  <br />
+  <sub>🍄 Keep moving forward, one level at a time!</sub>
+</div>
+
 ## 🛠️ Tech Stack
 
 <div align="center">
