@@ -21,34 +21,16 @@
 </div>
 
 ---
+## 👨‍💻 About Me
+
 
 <div align="center">
   <img src="./chamuditha_skills_popup.gif" width="950" alt="Chamuditha skills popup animation" />
 
 
 
-## 👨‍💻 About Me
 
-<div align="center">
-  <p>
-    I’m a <strong>BSc (Hons) Computer Science (Software Engineering)</strong> undergraduate at the
-    <strong>University of Wolverhampton through CINEC Campus, Malabe</strong>.
-  </p>
 
-  <p>
-    I enjoy building web applications, software projects, and user-friendly digital solutions.
-    I’m also interested in <strong>software testing, QA, cloud technologies, databases, and AI-assisted development</strong>.
-  </p>
-
-  <ul align="left">
-    <li>🎓 Currently studying <strong>Computer Science (Software Engineering)</strong></li>
-    <li>💻 Interested in <strong>software and web development</strong></li>
-    <li>🌐 Experience with <strong>frontend and backend development</strong></li>
-    <li>🧪 Interested in <strong>software testing, QA, and automation</strong></li>
-    <li>🤖 Exploring <strong>AI-assisted development and prompt engineering</strong></li>
-    <li>☁️ Learning and working with <strong>cloud technologies</strong></li>
-  </ul>
-</div>
 
 
 
