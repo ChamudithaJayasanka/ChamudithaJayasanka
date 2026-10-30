@@ -1,12 +1,5 @@
 <div align="center">
-
-<h1>Chamuditha Jayasanka</h1>
-
-<img src="./neon_wave_animated.gif" alt="Animated neon wave" width="100%" />
-
-<a href="https://github.com/ChamudithaJayasanka">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=900&color=38BDF8&center=true&vCenter=true&width=760&lines=Computer+Science+Undergraduate;Software+%26+Web+Developer;QA+%26+Testing+Enthusiast;AI-Assisted+Developer;Always+learning%2C+building%2C+and+improving" alt="Typing animation" />
-</a>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:2563eb,100:06b6d4&height=180&section=header&text=Chamuditha%20Jayasanka&fontSize=42&fontColor=ffffff&fontAlignY=38&animation=fadeIn" alt="Animated profile header" width="100%" />
 
 <br />
 
