@@ -1,37 +1,15 @@
- <h1>Hi 👋, I'm Chamuditha Jayasanka!</h1>
+# Hi 👋, I'm Chamuditha Jayasanka!
 
-  <!-- Animated Typing Text -->
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=23&duration=2500&pause=800&color=00D9FF&center=true&vCenter=true&repeat=true&width=650&height=60&lines=🎓+Computer+Science+Undergraduate;💻+Software+Developer;🌐+Web+Developer;🧪+QA+%26+Testing+Enthusiast;🤖+AI-Assisted+Developer;🚀+Learning+and+Building+Every+Day!"
-      alt="Typing Animation" />
-  </a>
+### 🎓 Computer Science Undergraduate | 💻 Software Developer | 🌐 Web Developer | 🧪 QA & Testing Enthusiast | 🤖 AI-Assisted Developer
 
-  <br/>
+![Software Developer](https://img.shields.io/badge/Role-Software%20Developer-blue?style=for-the-badge)
+![Web Developer](https://img.shields.io/badge/Role-Web%20Developer-green?style=for-the-badge)
+![QA & Testing](https://img.shields.io/badge/Role-QA%20%26%20Testing-orange?style=for-the-badge)
+![AI Developer](https://img.shields.io/badge/Interest-AI%20%26%20Automation-purple?style=for-the-badge)
 
-  <!-- Loading Animation -->
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png"
-       width="100%" />
-
-  <br/>
-
-  <!-- Animated Developer GIF -->
-  <img src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif"
-       width="350"
-       alt="Developer Coding Animation" />
-
-  <br/><br/>
-
-  <!-- Loading Progress Animation -->
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=1500&pause=500&color=00FF88&center=true&vCenter=true&width=500&lines=Initializing+Developer+Mode...;Loading+Skills...;Building+Awesome+Projects...;System+Ready+✓"
-       alt="Loading Animation" />
-
-  <br/><br/>
-
-  <!-- Skill Badges -->
-  <img src="https://img.shields.io/badge/Software_Developer-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
-  <img src="https://img.shields.io/badge/Web_Developer-00C853?style=for-the-badge&logo=googlechrome&logoColor=white" />
-  <img src="https://img.shields.io/badge/QA_&_Testing-FF9800?style=for-the-badge&logo=testinglibrary&logoColor=white" />
-  <img src="https://img.shields.io/badge/AI_&_Automation-9C27B0?style=for-the-badge&logo=openai&logoColor=white" />
+<p align="center">
+  <p align="center">
+  set some animation modern typley
 
   <img
     src="https://camo.githubusercontent.com/f63e22ea6f6b43ec238a4cd59f987675b38bf101effcd153812b26d6b6829174/68747470733a2f2f7265732e636c6f7564696e6172792e636f6d2f7375706572666f6c696f2f696d6167652f75706c6f61642f76313632303638393937392f36383734373437303733336132663266363932653730363936653639366436373265363336663664326636663732363936373639366536313663373332663633333632663333333332663633333232663633333633333333363333323330363536343635333833323636333036353330363336353634333736343335333733303634363236353333363133313636333332653637363936365f796a756832732e676966"
