@@ -14,7 +14,7 @@
 
 <picture>
   <source media="(prefers-reduced-motion: reduce)" srcset="assets/about-me-static.png">
-  <img src="assets/about-me.gif" width="180" height="180" alt="Animated illustration of a developer at a laptop with glowing circuits.">
+  <img src="assets/about-me.gif" width="100%" alt="Animated illustration of a developer at a laptop with glowing circuits.">
 </picture>
 
 # Hi, I'm Chamuditha 👋
