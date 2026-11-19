@@ -8,7 +8,13 @@
 
 # Hi, I'm Chamuditha 👋
 
-A Computer Science undergraduate exploring software engineering, web development, software testing, and applied AI/ML.
+I am Chamuditha Jayasanka, an undergraduate BSc (Hons) Computer Science student at the University of Wolverhampton, currently studying at CINEC Campus since 2024.
+
+I have a strong interest in Software Engineering and Web Development, and I am continuously developing my skills in HTML, CSS, JavaScript, Java, and Database Systems through academic and personal projects.
+
+I enjoy learning new technologies, solving programming challenges, and building modern software applications that improve user experiences and solve real-world problems.
+
+I am seeking opportunities to gain industry experience, enhance my technical knowledge, and grow as a future software engineer.
 
 <p>
   <a href="https://www.linkedin.com/in/chamuditha-jayasanka-726872411/"><img src="assets/linkedin.svg" height="36" alt="Connect with Chamuditha on LinkedIn"></a>
