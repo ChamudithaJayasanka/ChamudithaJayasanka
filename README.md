@@ -33,46 +33,7 @@ I am seeking opportunities to gain industry experience, enhance my technical kno
 
 ## Selected projects
 
-<table width="100%">
-  <tr>
-    <td width="33%" align="center" valign="top">
-      <a href="https://github.com/ChamudithaJayasanka/My-Cinemax-Web-Project">
-        <picture>
-          <source media="(prefers-reduced-motion: reduce)" srcset="assets/projects/cinemax-static.png">
-          <img src="assets/projects/cinemax.gif" width="100%" alt="Animated cinema illustration for Cinemax, with a softly glowing play screen and projector lights.">
-        </picture>
-      </a>
-      <br>
-      <strong><a href="https://github.com/ChamudithaJayasanka/My-Cinemax-Web-Project">Cinemax →</a></strong>
-      <br>
-      <sub>A cinema-themed web project.</sub>
-    </td>
-    <td width="33%" align="center" valign="top">
-      <a href="https://github.com/ChamudithaJayasanka/NewWeatherApp">
-        <picture>
-          <source media="(prefers-reduced-motion: reduce)" srcset="assets/projects/weather-static.png">
-          <img src="assets/projects/weather.gif" width="100%" alt="Animated weather illustration for Weather Forecast App, with falling cyan rain and a softly glowing sun behind a cloud.">
-        </picture>
-      </a>
-      <br>
-      <strong><a href="https://github.com/ChamudithaJayasanka/NewWeatherApp">Weather Forecast App →</a></strong>
-      <br>
-      <sub>A weather forecast application.</sub>
-    </td>
-    <td width="33%" align="center" valign="top">
-      <a href="https://github.com/ChamudithaJayasanka/Web-Development-Project">
-        <picture>
-          <source media="(prefers-reduced-motion: reduce)" srcset="assets/projects/ecommerce-static.png">
-          <img src="assets/projects/ecommerce.gif" width="100%" alt="Animated shopping illustration for E-commerce Website, with a cart, product cards, and a softly pulsing checkout light.">
-        </picture>
-      </a>
-      <br>
-      <strong><a href="https://github.com/ChamudithaJayasanka/Web-Development-Project">E-commerce Website →</a></strong>
-      <br>
-      <sub>An e-commerce web project.</sub>
-    </td>
-  </tr>
-</table>
+These projects show how I’ve applied web development to different types of applications. **[Cinemax](https://github.com/ChamudithaJayasanka/My-Cinemax-Web-Project)** is a cinema-themed website inspired by the look and feel of a movie theatre. My **[Weather Forecast App](https://github.com/ChamudithaJayasanka/NewWeatherApp)** focuses on presenting forecast information in a clear, easy-to-read interface. My **[E-commerce Website](https://github.com/ChamudithaJayasanka/Web-Development-Project)** explores how to display products and organize an online storefront. Through these projects, I’ve practiced designing interfaces and presenting information in ways that fit what users come to each site to do.
 
 [View my GitHub contribution activity →](https://github.com/ChamudithaJayasanka#overview)
 
