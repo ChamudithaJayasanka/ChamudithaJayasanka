@@ -6,6 +6,17 @@
   <img src="assets/chamuditha-github-banner.png" width="100%" alt="Chamuditha Jayasanka — Computer Science Undergraduate. A softly pulsing cyan circuit globe, tiny laptop lights, and a cyan-to-violet sweep against midnight navy; the name and title remain still.">
 </picture>
 
+## About me
+
+- Computer Science undergraduate.
+- Interested in software engineering, web development, and software testing.
+- Exploring applied AI/ML through SmartFish Planner.
+
+<picture>
+  <source media="(prefers-reduced-motion: reduce)" srcset="assets/about-me-static.png">
+  <img src="assets/about-me.gif" width="180" height="180" alt="Animated illustration of a developer at a laptop with glowing circuits.">
+</picture>
+
 # Hi, I'm Chamuditha 👋
 
 I am Chamuditha Jayasanka, an undergraduate BSc (Hons) Computer Science student at the University of Wolverhampton, currently studying at CINEC Campus since 2024.
@@ -23,14 +34,7 @@ I am seeking opportunities to gain industry experience, enhance my technical kno
 
 <picture>
   <source media="(prefers-reduced-motion: reduce)" srcset="assets/neon-divider-static.png">
-  <img src="assets/neon-divider.gif" width="100%" alt="Subtle animated cyan-to-violet light sweep separating the introduction from About me.">
-</picture>
-
-## About me
-
-<picture>
-  <source media="(max-width: 600px)" srcset="assets/about-mobile.svg">
-  <img src="assets/about.svg" width="100%" alt="About me: Computer Science undergraduate; interested in software engineering, web development, and software testing; exploring applied AI/ML through SmartFish Planner. Original developer workspace illustration beside the text, stacked below it on mobile.">
+  <img src="assets/neon-divider.gif" width="100%" alt="Subtle animated cyan-to-violet light sweep separating the introduction from selected projects.">
 </picture>
 
 ## Selected projects
