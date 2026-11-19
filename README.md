@@ -6,12 +6,6 @@
   <img src="assets/chamuditha-github-banner.png" width="100%" alt="Chamuditha Jayasanka — Computer Science Undergraduate. A softly pulsing cyan circuit globe, tiny laptop lights, and a cyan-to-violet sweep against midnight navy; the name and title remain still.">
 </picture>
 
-## About me
-
-- Computer Science undergraduate.
-- Interested in software engineering, web development, and software testing.
-- Exploring applied AI/ML through SmartFish Planner.
-
 <picture>
   <source media="(prefers-reduced-motion: reduce)" srcset="assets/about-me-static.png">
   <img src="assets/about-me.gif" width="100%" alt="Animated illustration of a developer at a laptop with glowing circuits.">
