@@ -1,4 +1,10 @@
-<img src="assets/chamuditha-github-banner.png" width="100%" alt="Chamuditha Jayasanka — Computer Science Undergraduate. A luminous cyan circuit globe and developer laptop against midnight navy.">
+<picture>
+  <source media="(prefers-reduced-motion: reduce) and (max-width: 600px)" srcset="assets/chamuditha-banner-mobile.png">
+  <source media="(prefers-reduced-motion: reduce)" srcset="assets/chamuditha-github-banner.png">
+  <source media="(max-width: 600px)" srcset="assets/chamuditha-banner-mobile.gif">
+  <source media="(prefers-reduced-motion: no-preference)" srcset="assets/chamuditha-banner-animated.gif">
+  <img src="assets/chamuditha-github-banner.png" width="100%" alt="Chamuditha Jayasanka — Computer Science Undergraduate. A softly pulsing cyan circuit globe, tiny laptop lights, and a cyan-to-violet sweep against midnight navy; the name and title remain still.">
+</picture>
 
 # Hi, I'm Chamuditha 👋
 
@@ -8,6 +14,11 @@ A Computer Science undergraduate exploring software engineering, web development
   <a href="https://www.linkedin.com/in/chamuditha-jayasanka-726872411/"><img src="assets/linkedin.svg" height="36" alt="Connect with Chamuditha on LinkedIn"></a>
   <a href="https://github.com/ChamudithaJayasanka?tab=repositories"><img src="assets/repositories.svg" height="36" alt="Explore Chamuditha's GitHub repositories"></a>
 </p>
+
+<picture>
+  <source media="(prefers-reduced-motion: reduce)" srcset="assets/neon-divider-static.png">
+  <img src="assets/neon-divider.gif" width="100%" alt="Subtle animated cyan-to-violet light sweep separating the introduction from About me.">
+</picture>
 
 ## About me
 
@@ -35,6 +46,8 @@ The focus: bringing these inputs together to support practical decisions before 
 - **[Cinemax →](https://github.com/ChamudithaJayasanka/My-Cinemax-Web-Project)** — A cinema-themed web project.
 - **[Weather Forecast App →](https://github.com/ChamudithaJayasanka/NewWeatherApp)** — A weather forecast application.
 - **[E-commerce Website →](https://github.com/ChamudithaJayasanka/Web-Development-Project)** — An e-commerce web project.
+
+[View my GitHub contribution activity →](https://github.com/ChamudithaJayasanka#overview)
 
 ## Tech stack
 
