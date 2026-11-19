@@ -33,9 +33,38 @@ I am seeking opportunities to gain industry experience, enhance my technical kno
 
 ## Selected projects
 
-- **[Cinemax →](https://github.com/ChamudithaJayasanka/My-Cinemax-Web-Project)** — A cinema-themed web project.
-- **[Weather Forecast App →](https://github.com/ChamudithaJayasanka/NewWeatherApp)** — A weather forecast application.
-- **[E-commerce Website →](https://github.com/ChamudithaJayasanka/Web-Development-Project)** — An e-commerce web project.
+### [Cinemax →](https://github.com/ChamudithaJayasanka/My-Cinemax-Web-Project)
+
+A cinema-themed web project.
+
+<a href="https://github.com/ChamudithaJayasanka/My-Cinemax-Web-Project">
+  <picture>
+    <source media="(prefers-reduced-motion: reduce)" srcset="assets/projects/cinemax-static.png">
+    <img src="assets/projects/cinemax.gif" width="100%" alt="Animated cinema illustration for Cinemax, with a softly glowing play screen and projector lights.">
+  </picture>
+</a>
+
+### [Weather Forecast App →](https://github.com/ChamudithaJayasanka/NewWeatherApp)
+
+A weather forecast application.
+
+<a href="https://github.com/ChamudithaJayasanka/NewWeatherApp">
+  <picture>
+    <source media="(prefers-reduced-motion: reduce)" srcset="assets/projects/weather-static.png">
+    <img src="assets/projects/weather.gif" width="100%" alt="Animated weather illustration for Weather Forecast App, with falling cyan rain and a softly glowing sun behind a cloud.">
+  </picture>
+</a>
+
+### [E-commerce Website →](https://github.com/ChamudithaJayasanka/Web-Development-Project)
+
+An e-commerce web project.
+
+<a href="https://github.com/ChamudithaJayasanka/Web-Development-Project">
+  <picture>
+    <source media="(prefers-reduced-motion: reduce)" srcset="assets/projects/ecommerce-static.png">
+    <img src="assets/projects/ecommerce.gif" width="100%" alt="Animated shopping illustration for E-commerce Website, with a cart, product cards, and a softly pulsing checkout light.">
+  </picture>
+</a>
 
 [View my GitHub contribution activity →](https://github.com/ChamudithaJayasanka#overview)
 
