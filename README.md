@@ -33,20 +33,6 @@ I am seeking opportunities to gain industry experience, enhance my technical kno
   <img src="assets/about.svg" width="100%" alt="About me: Computer Science undergraduate; interested in software engineering, web development, and software testing; exploring applied AI/ML through SmartFish Planner. Original developer workspace illustration beside the text, stacked below it on mobile.">
 </picture>
 
-## Featured research
-
-### SmartFish Planner
-
-**Final-year project · In progress**
-
-I'm designing a planner for **7–30 day offshore tuna fishing trips in Sri Lanka**, combining:
-
-- **Fishing-ground suitability** and marine forecasts.
-- **Permitted fishing areas** to guide trip planning.
-- **Boat-specific fuel and supply checks** for the planned trip.
-
-The focus: bringing these inputs together to support practical decisions before heading offshore.
-
 ## Selected projects
 
 - **[Cinemax →](https://github.com/ChamudithaJayasanka/My-Cinemax-Web-Project)** — A cinema-themed web project.
